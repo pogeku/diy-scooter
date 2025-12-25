@@ -3,6 +3,8 @@
 a DIY electric scooter! Features include variable speed, handlebar throttle, physical brake , suspension fork for weight distribution, fast top speed, and backlit display for battery.
 
 ![image](https://github.com/user-attachments/assets/0cfb275e-d576-4ca0-93fb-131b6afa2a01)
+<img width="812" height="420" alt="image" src="https://github.com/user-attachments/assets/6b69cc1e-be1d-469c-95b0-6bd27a0aa955" />
+
 
 ## table BOM:
 
